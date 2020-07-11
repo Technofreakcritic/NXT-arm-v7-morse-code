@@ -1,3 +1,3 @@
 # NXT ARM v7 Morse Code
 
-Potaoto asda sodaspdkas
+  Assembly language code for NXOS ARMv7 
